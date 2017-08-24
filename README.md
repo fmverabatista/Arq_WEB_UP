@@ -5,8 +5,8 @@ Nombre del Grupo: ReQRda
 
 Integrantes:
 
-Roberto.....
+Roberto Gutiérres
 
-Fernando....
+Fernando Vera Batista
 
 Funcionalidad: Identificación de Activos mediante codigos QR
