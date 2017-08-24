@@ -5,7 +5,7 @@ Nombre del Grupo: ReQRda
 
 Integrantes:
 
-Roberto Gutiérres
+Roberto Gutiérrez
 
 Fernando Vera Batista
 
