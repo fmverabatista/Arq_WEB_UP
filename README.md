@@ -14,6 +14,9 @@ Funcionalidad: Identificación de Activos mediante codigos QR
 Endpoints:
 
 http://reqrda.net
+
 ../index/login
+
 ../index/help
+
 http://reqrda.net//
