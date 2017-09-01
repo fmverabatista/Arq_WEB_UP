@@ -15,8 +15,20 @@ Endpoints:
 
 http://reqrda.net
 
-../index/login
+../login
 
-../index/help
+../help
 
-http://reqrda.net//
+http://reqrda.net/uses/
+
+../read
+
+../create
+
+../update
+
+../delete
+
+../logout
+
+
