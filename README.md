@@ -15,6 +15,8 @@ Endpoints:
 
 http://reqrda.net
 
+../index.html
+
 ../login
 
 ../help
