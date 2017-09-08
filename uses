@@ -1,7 +1,15 @@
-<HTML>
-<HEAD>
-<TITLE>Bienvenido a la Aplicación ReQRda - Inventario de Ativos</TITLE>
-</HEAD>
-<BODY>
-</BODY>
-</HTML>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bienvenido a la Aplicación ReQRda - Inventario de Ativos</title>
+</head>
+<body>
+ <p>Bienvenido<strong>a ReQRda</strong></p>
+</body>
+</html>
+
+
+
+
+
