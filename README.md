@@ -13,24 +13,24 @@ Funcionalidad: Identificación de Activos mediante codigos QR
 
 Endpoints:
 
-http://reqrda.net
+https://fmverabatista.github.io/ReQRda/
 
-../index.html
+/index.html
 
-../login
+/help
 
-../help
+/read
 
-http://reqrda.net/uses/
+/uses/login
 
-../read
+/uses/create
 
-../create
+/uses/update
 
-../update
+/uses/delete
 
-../delete
+/uses/logout
 
-../logout
+Notas:
 
-
+Usar postman
